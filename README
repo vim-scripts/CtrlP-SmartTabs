@@ -1,0 +1,6 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=4797
+
+With the vim plugin CtrlP you can easily open a file or a buffer.
+This is a ctrlp.vim extension that allow you to switch between different opened tabs.
+
+Github repository: https://github.com/DavidEGx/ctrlp-smarttabs
